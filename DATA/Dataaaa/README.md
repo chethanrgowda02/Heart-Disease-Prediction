@@ -189,7 +189,7 @@ with h5py.File(model_file_path, 'w') as h5f:
 model_file_path
 
 ## Screenshots
-![image](https://github.com/nishanthkj/Heart_Disease_Prediction/assets/138886231/64d81d3e-5c73-4cce-bea4-67baa38b12fa)
+OUTPUT:IMAGES.zip
 
 ## Conclusion
 
